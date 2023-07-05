@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @abikkk
-- 👀 I’m interested in flutter
-- 🌱 I’m currently woring as flutter developer
-- 💞️ I’m looking to collaborate on flutter app development
-- 📫 How to reach me: abikvaidhya@gmail.com
-
-<!---
-
---->
+- 👋 hi, i’m abik vaidhya
+- 👀 interested in flutter
+- 🌱 currently woring as flutter developer
+- 💞️ open to collaborate on flutter app development
+- 📫 abikvaidhya@gmail.com
